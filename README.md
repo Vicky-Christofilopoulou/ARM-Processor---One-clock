@@ -1,4 +1,4 @@
-# ARM-Processor---One-clock
+# ARM-Processor-One-clock
 
 The goal of this project is to design the microarchitecture of a simplified single-cycle ARM processor in FPGA technology, using the Vivado IDE (Integrated Development Environment) tool from Xilinx.
 
